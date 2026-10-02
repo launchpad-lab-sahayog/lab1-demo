@@ -1,0 +1,6 @@
+# Default owner for everything
+*                     @launchpad-lab-sahayog/service-team
+# Platform owns pipelines, infra, and this file
+/.github/             @launchpad-lab-sahayog/platform-team
+/infra/               @launchpad-lab-sahayog/platform-team
+/.github/CODEOWNERS   @launchpad-lab-sahayog/platform-team
